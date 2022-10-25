@@ -1,0 +1,19 @@
+.table {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: flex-start;
+  justify-content: space-between;
+  align-items: stretch;
+  width: 1100px;
+  height: 386px;
+  z-index: 5;
+  padding-top: 60px;
+}
+
+.table_cell {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  height: 133px;
+  justify-content: flex-start;
+}
