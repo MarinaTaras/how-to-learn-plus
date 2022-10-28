@@ -1,11 +1,11 @@
-.__link {
+.link {
   /* color: #2f80ed; */
   text-decoration: none;
   opacity: 1;
   transition: 0.35s ease-out;
 }
 
-.__link:hover {
+.link:hover {
   opacity: 0.6;
   transition: 0.35s ease-out;
 }

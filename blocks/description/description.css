@@ -1,25 +1,9 @@
-.bottom_hr{
-  color: #f2f2f2;
-  size: 2px;
-  width: 100%;
-  padding: 0;
-  margin: 0;
-  z-index: 5;
-}
-
-.top_hr{
-  color: #f2f2f2;
-  size: 2px;
-  width: 100%;
-  padding: 0;
-  margin: 100px 0 0 0;
-  z-index: 5;
-}
 
 .description{
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding: 100px 0;
 }
 
 .span-accent{
