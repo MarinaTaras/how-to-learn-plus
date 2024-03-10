@@ -13,7 +13,7 @@
   </a>
 </div>
 
-### :hammer_and_wrench: А так же: animation css, flex-box, методология БЭМ.
+### :hammer_and_wrench: А так же: animation css, flex-box, методология БЭМ
 
 <h3>Демонстрация проекта на GitHub Pages</h3>
 https://MarinaTaras.github.io/how-to-learn-plus/
